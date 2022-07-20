@@ -1,1 +1,8 @@
-#Primeiro teste da DIO##Passos para o funcionamento do GIT* Passo 1:+ Passo 2:- Passo 3:
+#Primeiro teste da DIO
+
+##Funcionamento do GIT
+* Comandos no terminal
++ Instalação do GIT
+- Chave SSH
+
+
